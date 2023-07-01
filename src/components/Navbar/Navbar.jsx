@@ -43,6 +43,22 @@ const Navbar = () => {
               to="/"
               className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
             >
+              Produk
+            </Link>
+          </li>
+          <li>
+            <Link
+              to="/"
+              className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
+            >
+              Info
+            </Link>
+          </li>
+          <li>
+            <Link
+              to="/"
+              className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
+            >
               Berita
             </Link>
           </li>
