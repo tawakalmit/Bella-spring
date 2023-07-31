@@ -5,6 +5,7 @@ import Subbanner from "../components/Subbanner/Subbanner";
 import Newarrival from "../components/Newarrival/Newarrival";
 import Collection from "../components/Collection/Collection";
 import Customer from "../components/Customer/Customer";
+import Artikel from "../components/Artikel/Artikel";
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
         <Newarrival />
         <Collection />
         <Customer />
+        <Artikel />
       </Layout>
     </>
   );

@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from "react";
+import { Suspense } from "react";
 import Slider from "react-slick";
 import { getBanner } from "../../service/Banner.service";
 

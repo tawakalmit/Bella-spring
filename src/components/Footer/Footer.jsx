@@ -131,14 +131,14 @@ const Footer = () => {
                   className="router-link-active router-link-exact-active w-[3rem] h-[3rem] flex items-center justify-center rounded-full border-solid border-[1px] border-white hover:border-[#3c3b89]"
                   aria-current="page"
                 >
-                  <i className="fa-brands fa-instagram fa-xl"></i>
+                  <i className="bx bxl-instagram bx-md"></i>
                 </a>
                 <a
                   href="/"
                   className="router-link-active router-link-exact-active w-[3rem] h-[3rem] flex items-center justify-center rounded-full border-solid border-[1px] border-white hover:border-[#3c3b89]"
                   aria-current="page"
                 >
-                  <i className="fa-brands fa-facebook-f fa-xl"></i>
+                  <i className="bx bxl-facebook bx-md"></i>
                 </a>
               </div>
             </div>

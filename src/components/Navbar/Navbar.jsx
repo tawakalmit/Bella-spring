@@ -24,7 +24,7 @@ const Navbar = () => {
           </li>
           <li>
             <Link
-              to="/"
+              to="/Tentangkami"
               className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
             >
               Tentang Kami
@@ -32,18 +32,18 @@ const Navbar = () => {
           </li>
           <li>
             <Link
-              to="/"
+              to="/Produk"
               className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
             >
-              Toko
+              Produk
             </Link>
           </li>
           <li>
             <Link
-              to="/"
+              to="/Toko"
               className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
             >
-              Produk
+              Toko
             </Link>
           </li>
           <li>
