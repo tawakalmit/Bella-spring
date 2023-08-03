@@ -48,7 +48,7 @@ const Navbar = () => {
           </li>
           <li>
             <Link
-              to="/"
+              to="/Info"
               className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
             >
               Info
@@ -56,7 +56,7 @@ const Navbar = () => {
           </li>
           <li>
             <Link
-              to="/"
+              to="/Berita"
               className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
             >
               Berita
@@ -64,7 +64,7 @@ const Navbar = () => {
           </li>
           <li>
             <Link
-              to="/"
+              to="/Kontak"
               className="text-[#3a3f45] hover:opacity-30 transition duration-300 ease-in-out"
             >
               Kontak

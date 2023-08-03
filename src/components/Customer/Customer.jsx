@@ -33,9 +33,9 @@ const Customer = () => {
         </p>
 
         <Slider {...settings}>
-          {customer.map((item, index) => (
-            <div className="grid grid-cols-3 gap-4">
-              <div key={index} className="h-[25rem] bg-[#f7f7f7] mx-3">
+          {customer.map((item) => (
+            <div key={item.id} className="grid grid-cols-3 gap-4">
+              <div className="h-[25rem] bg-[#f7f7f7] mx-3">
                 <div className="w-full h-[13rem] bg-white text-sm p-10 pb-20 relative">
                   <p className="opacity-50">{item.review}</p>
                   <div className="absolute -bottom-5"></div>

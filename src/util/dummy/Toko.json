@@ -1,0 +1,193 @@
+{
+  "store": [
+    {
+      "id": 1,
+      "title": "Bedding Center",
+      "description": "Online Dealer Resmi Garansi 10 Tahun",
+      "sosial": "Instagram : Beddingcenterid",
+      "onlinestore": "Shopee : Bedding Center",
+      "number": "082334879494",
+      "address": "SIDOARJO"
+    },
+    {
+      "id": 2,
+      "title": "SUNDA MEBEL",
+      "description": "Jl P Sudirman NO 9, Sblh Barat Psr CARUBAN",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0351 387966",
+      "address": "MADIUN"
+    },
+    {
+      "id": 3,
+      "title": "DUTA MAKMUR",
+      "description": "Jl Raya Dungus No.07 Wungu",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0351-469910",
+      "address": "MADIUN"
+    },
+    {
+      "id": 4,
+      "title": "TIMUR RAYA",
+      "description": "Jl. P. Sudirman 48",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0351-462883",
+      "address": "MADIUN"
+    },
+    {
+      "id": 5,
+      "title": "MORODADI",
+      "description": "Jl SUKARTIYO No.63 TIMUR KEC YOSOWILANGUN",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "85746153184",
+      "address": "LUMAJANG"
+    },
+    {
+      "id": 6,
+      "title": "DEVIE SHOFIE",
+      "description": "JL RAYA MUNDER RT.01 RW.04 YOSOWILANGUN",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "81249651000",
+      "address": "LUMAJANG"
+    },
+    {
+      "id": 7,
+      "title": "ASIYAH",
+      "description": "JL SUNANDAR PRIYOSUDARMO 39",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "81310887687",
+      "address": "LUMAJANG"
+    },
+    {
+      "id": 8,
+      "title": "MEBEL ANIS",
+      "description": "JL GAJAH MADA NO.6B",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "081515430143/085230169796",
+      "address": "LUMAJANG"
+    },
+    {
+      "id": 9,
+      "title": "INDRA JAYA",
+      "description": "Jl Raya Pasirian Gang 3 No.10",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "",
+      "address": "LUMAJANG"
+    },
+    {
+      "id": 10,
+      "title": "MAKMUR JAYA",
+      "description": "Jl Kapten Ilyas No 89",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "87757404569",
+      "address": "LUMAJANG"
+    },
+    {
+      "id": 11,
+      "title": "NEW ALOHA",
+      "description": "Jl Panglima Sudirman 18",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0334-689388",
+      "address": "LUMAJANG"
+    },
+    {
+      "id": 12,
+      "title": "ALOHA",
+      "description": "Jl Kapten Suwandak No. 65",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0334 881228",
+      "address": "LUMAJANG"
+    },
+    {
+      "id": 13,
+      "title": "KURNIA ABADI",
+      "description": "Jl Wilis Tama 4-Perum Wilis In",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0354 772512",
+      "address": "KEDIRI"
+    },
+    {
+      "id": 14,
+      "title": "IRWANSYAH FURNIMART",
+      "description": "Jl Sunan Drajad 119",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0322 322517",
+      "address": "LAMONGAN"
+    },
+    {
+      "id": 15,
+      "title": "Jaya Mulya",
+      "description": "Jalan Raya Karang Langit",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "",
+      "address": "LAMONGAN"
+    },
+    {
+      "id": 16,
+      "title": "Lancar",
+      "description": "Jalan Raya Karanggeneng",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "",
+      "address": "LAMONGAN"
+    },
+    {
+      "id": 17,
+      "title": "GARUDA",
+      "description": "JL BASUKI RACHMAT NO.7",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "85257289333",
+      "address": "LAMONGAN"
+    },
+    {
+      "id": 18,
+      "title": "JAYA MAKMUR 2/MANDIRI JAYA",
+      "description": "JL RAYA SIMO MLAGI-KARANGENENG",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "081357786924 / 085732230198",
+      "address": "LAMONGAN"
+    },
+    {
+      "id": 19,
+      "title": "NAGA MAS Meubel",
+      "description": "Jl Panglima Sudirman 13 BANGKALAN",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "031 3091835",
+      "address": "MADURA"
+    },
+    {
+      "id": 20,
+      "title": "PUTRI SUMBER URIP",
+      "description": "Jl Raya Pangean Maduran",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0322-311838",
+      "address": "LAMONGAN"
+    },
+    {
+      "id": 21,
+      "title": "GARUDA BUANA",
+      "description": "Jl Sunan Kalijogo No.2",
+      "sosial": "",
+      "onlinestore": "",
+      "number": "0322 321514",
+      "address": "LAMONGAN"
+    }
+  ]
+}
